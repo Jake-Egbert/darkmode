@@ -14,9 +14,7 @@ const Photos = () => {
 
   return (
     <div
-      className={
-        darkMode ? `landing-container content-dark` : `landing-container`
-      }
+      className={darkMode ? `page-container content-dark` : `page-container`}
     >
       <div>welcome to the photos page</div>
       <div className="example-text">{photoProvider()}</div>
