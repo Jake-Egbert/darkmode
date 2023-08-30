@@ -11,6 +11,7 @@ const Photos = () => {
     }
     return <p>lightmode</p>;
   };
+
   return (
     <div
       className={

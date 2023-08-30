@@ -11,6 +11,7 @@ const Landing = () => {
     }
     return <p>lightmode</p>;
   };
+
   return (
     <div
       className={

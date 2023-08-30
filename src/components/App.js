@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Navbar from "./navigation/Navbar";
 import Landing from "./pages/Landing";
 import Photos from "./pages/Photos";
-// import "./App.css";
 
 function App() {
   return (
