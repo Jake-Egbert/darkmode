@@ -7,6 +7,7 @@ const Switch = () => {
   const handleSwitch = () => {
     toggleDarkMode();
   };
+
   return (
     <>
       <input
